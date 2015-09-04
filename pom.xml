@@ -14,6 +14,8 @@
 	<version>1.1.0-SNAPSHOT</version>
 	
 	<name>Black Pepper Support Spring Security</name>
+	<description>Support for working with Spring Security.</description>
+	<url>https://github.com/BlackPepperSoftware/bp-support-spring-security</url>
 	
 	<scm>
 		<connection>scm:git:git@github.com:BlackPepperSoftware/bp-support-spring-security.git</connection>
